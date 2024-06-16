@@ -1,0 +1,33 @@
+{
+  // to use typedoc -> npx typedoc
+  "out": "./public/docs",
+  "entryPointStrategy": "expand",
+  "entryPoints": ["./src",],
+  // "entryPoints": ["./"],
+  "skipErrorChecking": true,
+  "darkHighlightTheme": "dark-plus",
+  "includeVersion": true,
+  "searchInComments": true,
+  "hideGenerator": true,
+  "commentStyle": "all",
+  "cleanOutputDir": true,
+  "exclude": [
+    "./.cache/**",
+    "./fonts/**",
+    "./public/**",
+    "./static/**",
+    "./.next/**"
+  ],
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "commonjs",
+    "target": "es5",
+  },
+
+  // "navigation": {
+  //   "includeCategories": true,
+  //   "includeGroups": false,
+  //   "includeFolders": true
+  // },
+  // "categorizeByGroup": false
+}
