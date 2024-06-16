@@ -6,7 +6,7 @@
 
 You can also access docs on local server by navigating to "/docs/index.html"
 
-[Service Area mode (rectangle).webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/b97bc117-7309-4541-9f6f-06107cfa68ec)
+[Service Area mode (rectangle).webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/71779b5a-22c1-455d-9076-794403afbcbe)
 
 
 ## Getting Started
@@ -35,7 +35,8 @@ npm run docs
 
 # Normal Mode - normal routing with no restrictions
 
-[double click to place markers - use buttons.webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/ba260843-6128-4943-945d-07958cfa1f90)
+[double click to place markers - use buttons.webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/bdbbd2bd-fcf1-4f2d-8da7-b121e6ac175b)
+
 
 - Place Markers by double clicking on map 
 
@@ -58,14 +59,16 @@ npm run docs
 
 # Service Area Mode (by drawing a rectangle / polygon) - Markers can only placed inside service area
 
-[Service Area mode (rectangle).webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/b97bc117-7309-4541-9f6f-06107cfa68ec)
+[Service Area mode (rectangle).webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/71779b5a-22c1-455d-9076-794403afbcbe)
 
-[service area mode (polygon).webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/30892ec3-52d6-4f42-9f90-9a8c87fdb6cb)
+[service area mode (polygon).webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/b55b5fb3-4e9a-4247-845c-c808974724d1)
+
 
 
 - Define service area bounds by drawing a rectangle or polygon on to the map
 
-[Place , drag ,edit and delete - rectange and polygon .webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/0f5d4dec-9168-451a-aac7-8a3e32c2ed71)
+[Place , drag ,edit and delete - rectange and polygon .webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/f91df461-7c32-4e35-b07e-32dc81d763e5)
+
 
 
 - On placing a rect/polygon ; the boundary data is used for fetch uberh3 cells data
@@ -120,5 +123,6 @@ npm run docs
 - File versioning - using git/ github
 - Google Cloud Platform (GCP) deployment: Storage Bucket with Load balancer
   
-[dedicated docs.webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/c7f4c0c3-7643-40e4-860c-a76afbc4064a)
+[dedicated docs.webm](https://github.com/808vita/maps-with-uber-h3/assets/97225946/3cbdac85-001a-4a67-9e52-157ddb12399b)
+
 
